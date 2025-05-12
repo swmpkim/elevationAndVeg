@@ -87,7 +87,7 @@ ui <- tagList(
     
     
     page_navbar(
-    title = "WQB Elevations App",
+    title = "Elevation + Veg App",
     theme = bs_theme(version = 5),
     bg = "#477FB0",
     inverse = TRUE,
